@@ -1,6 +1,6 @@
-# Syntra Filter Checker
+# Syntra ✖ NextDev Filter Checker
 
-A filter checking tool for Syntra.
+A filter checking tool for Syntra ✖ NextDev.
 
 ## Owners
 - RoadJS
